@@ -22,7 +22,7 @@ The intended application of the project is for use in applying visibility weight
     
 * The program is trained using the dataset provided in train.csv taken from Kaggle's 2018 challenge where 0 is taken as reliable news source, and 1 is taken as unreliable.
 
--The data is ran on [Google Colab](https://colab.research.google.com/) which is a online alternative for Jupyter Notebook.
+-The model was ran on [Google Colab](https://colab.research.google.com/) which is a online alternative for Jupyter Notebook.
 
 
 ## Results
