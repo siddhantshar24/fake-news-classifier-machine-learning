@@ -27,5 +27,5 @@ The intended application of the project is for use in applying visibility weight
 
 ## Results
 
-The algorithm ran with an accuracy of 99% over the dataset that was provided by the challenge and it was proven to work efficiently over the dataset after getting trained showing effective results over the dataset thus solving the mentioned problem.
+The algorithm ran with an accuracy of 97.9% over the dataset that was provided by the challenge and it was proven to work efficiently over the dataset after getting trained showing effective results over the dataset thus solving the mentioned problem.
 
